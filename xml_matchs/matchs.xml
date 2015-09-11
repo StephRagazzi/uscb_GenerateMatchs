@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="../xsl/matchs.xsl" type="text/xsl" ?>
+<feuille2match>
+  <infos>
+    <saison>2011/2012</saison>
+    <titre>Samedi 26 et Dimanche 27 mai</titre>
+  </infos>
+  <garcons>
+    <match>
+      <equipe>Seniors 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Seniors 2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Seniors 3</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Seniors 4</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Juniors 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Cadets 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Cadets 2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Cadets 3</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Minimes 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Minimes 2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Minimes 3</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Benjamins 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Benjamins 2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+  </garcons>
+  <filles>
+    <match>
+      <equipe>Seniors 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Seniors 2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Seniors 3</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Seniors 4</equipe>
+      <adversaire>AURIGNAC</adversaire>
+      <terrain>E</terrain>
+      <date>27/05/2012</date>
+      <heure>15:30</heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Cadettes 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Cadettes 2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Minimes 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Minimes 2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Minimes 3</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Benjamines 1</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Benjamines 2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+  </filles>
+  <ecole_de_basket>
+    <match>
+      <equipe>Poussins</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Poussines</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Poussins Mixtes</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>M-P Confirm&#xE9;s</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>M-P Interm&#xE9;diaires</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>M-P D&#xE9;butants</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>Baby's</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date>26/05/2012</date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+  </ecole_de_basket>
+</feuille2match>
