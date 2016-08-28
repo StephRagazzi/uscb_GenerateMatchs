@@ -2,7 +2,7 @@
 <?xml-stylesheet href="../xsl/matchs.xsl" type="text/xsl" ?>
 <feuille2match>
   <infos>
-    <saison>2015/2016</saison>
+    <saison>2016/2017</saison>
     <titre></titre>
   </infos>
   <garcons>
@@ -24,14 +24,6 @@
     </match>
     <match>
       <equipe>SG3</equipe>
-      <adversaire></adversaire>
-      <terrain></terrain>
-      <date></date>
-      <heure></heure>
-      <comment></comment>
-    </match>
-    <match>
-      <equipe>SG4</equipe>
       <adversaire></adversaire>
       <terrain></terrain>
       <date></date>
@@ -80,6 +72,14 @@
     </match>
     <match>
       <equipe>U15M2</equipe>
+      <adversaire></adversaire>
+      <terrain></terrain>
+      <date></date>
+      <heure></heure>
+      <comment></comment>
+    </match>
+    <match>
+      <equipe>U15M3</equipe>
       <adversaire></adversaire>
       <terrain></terrain>
       <date></date>

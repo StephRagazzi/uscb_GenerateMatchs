@@ -14,7 +14,7 @@ namespace xml_matchs
             DateTools dt = new DateTools();
             XmlActions xActions = new XmlActions();
             string xPathTitle = "//feuille2match/infos/titre";
-            var list = dt.GetListOfSaturdays(new DateTime(2015, 9, 12), new DateTime(2016, 5, 30));
+            var list = dt.GetListOfSaturdays(new DateTime(2016, 9, 17), new DateTime(2017, 6, 10));
             foreach (var item in list)
             {
                 XmlDocument xmlDoc = new XmlDocument();
